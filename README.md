@@ -1,11 +1,11 @@
 # audiobook-album-sort-microservice-a
 # 
 # Overview:
-#     This microservices categorizes folders in a given directory based on specified conditions such as
-#     having subfolders in those directory folders that contain the word 'chapter' in the title or have
-#     mp3 files that are longer than 10 minutes long both being audiobooks. 
-#     The client programmatically requests folder categorization by writing a directory path to input.txt.
-#     The server reads input.txt, processes the directory, and writes the categorization results to 
+#     This microservices categorizes folders in a given directory based on specified conditions such as  
+#     having subfolders in those directory folders that contain the word 'chapter' in the title or have  
+#     mp3 files that are longer than 10 minutes long both being audiobooks.   
+#     The client programmatically requests folder categorization by writing a directory path to input.txt.  
+#     The server reads input.txt, processes the directory, and writes the categorization results to   
 #     output.txt. 
 # 
 # Communication Contract:
